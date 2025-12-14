@@ -18,7 +18,7 @@ A Python-based Sudoku Solver and Player built using wxPython.
 ## Sample Output
 
 ### Solver Mode
-![Solver Mode](screenshots/solver_output.png)
+![Solver Mode](screenshots/Solvermode_output.png)
 
 ### Play Mode
-![Play Mode](screenshots/play_mode.png)
+![Play Mode](screenshots/Playmode.png)
